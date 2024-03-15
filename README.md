@@ -2,19 +2,19 @@
 <div id="user-content-toc">
   <ul align="center">
     <h1 align="center"> <summary><h1 style="display: inline-block">Hi! I'm Baneza Livia :D </summary>
- <img src="https://i.pinimg.com/564x/88/da/38/88da38c61a0895ae2fd54c1eb9d5bfc9.jpg" width="100%" height="100%">
+ <img src="https://media.tenor.com/qhcRVSoKQ-YAAAAi/totoro-discord.gif" width="100%" height="100%">
     </h1>
 </div>
 
 
 <p align="center">I'm Learning, Creating and Memorizing ❤️ <br><br> 
-  O interesse que tenho em programação e suas linguagens me despertou de uma forma que eu nunca pensava, desde então, me esforço para continuar nessa área e implementar meus estudos neles, além de ajudar a aplicar programas e aplicativos em forma de estudo, treinando e aplicando.</p>&nbsp;
+  O interesse que tenho em programação e suas linguagens me despertou de uma forma que eu nunca pensava, desde então, me esforço para continuar nessa área e estudar mais, além de aplicar programas e aplicativos na aprendizagem, aprendendo, criando e memorizando.</p>&nbsp;
 
   👨‍💻 Sobre mim
 
   - 💬 Tenho 16 anos e atualmente moro no Brasil. Desde cedo possuo interesse em espanhol, tão encantada e diferente do português que eu aprendi nas escolas, depois veio o inglês, abrindo portas para descobrir mais sobre os diferente idiomas. Sou fluentemente em espanhol e no nível intermediário em inglês.
 
-  - ⚡ Atualmente sou uma estudante na Etec da Zona Leste, desde 2022, estudando Desenvolvimento de Sistemas junto com os meus colegas. Nós já desenvolvemos vários programas e aplicativos durante nosso aprendizado, desde em atividades ou trabalhos grandes e educativos.
+  - 🏫 Atualmente sou uma estudante na Etec da Zona Leste, desde 2022, estudando Desenvolvimento de Sistemas junto com os meus colegas. Nós já desenvolvemos vários programas e aplicativos durante nosso aprendizado, desde em atividades ou trabalhos grandes e educativos.
 
 
 <br>
@@ -27,8 +27,7 @@
 
 </div>
 
-<br><br>
-
+<br>
 
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim (curiosidades)</summary>
@@ -39,10 +38,12 @@
 
   - 📚 Sempre fui uma amante em leitura, desde criança eu sempre tive interesse. Com isso, comecei a criar as minhas próprias histórias de forma digital, porém em rascunhos, e posso dizer que amo as criações que eu realizo. Sou apaixonada em ler e escrever.
 
+  - 🎮 Eu também adoro jogos e a maneira como os programadores desenvolvem eles. Sempre quis ter minha própria empresa de jogos ou participar de uma, tenho tantas ideias e roteiros para jogos interativos que me perco ás vezes :D.
+
   <!-- - 📚 XXX. -->
 </details>
 
 <br>
 
-<img align="center" src="https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif" width="100%" height="30%">
+<img align="center" src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif">
 
