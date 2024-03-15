@@ -1,7 +1,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <h1 align="center"> <summary><h1 style="display: inline-block">Hi! I'm Baneza :D </summary>
+    <h1 align="center"> <summary><h1 style="display: inline-block">Hi! I'm Baneza Livia :D </summary>
  <img src="https://i.pinimg.com/564x/88/da/38/88da38c61a0895ae2fd54c1eb9d5bfc9.jpg" width="100%" height="100%">
     </h1>
 </div>
@@ -31,13 +31,18 @@
 
 
 <details>
-  <summary>👨‍💻 Um pouco mais sobre mim(curiosidades)</summary>
+  <summary>👨‍💻 Um pouco mais sobre mim (curiosidades)</summary>
 
   - 📢 Além de espanhol e inglês, tenho interesse em aprender francês e alemão. Atualmente, estou procurando curtos cursos para aprender mais sobre eles, e aplicar eles no mercado de trabalho que me espera no futuro.
 
   - 🎨 Gosto no que se relaciona em arte e criatividade, seja em forma de designs, desenhos, animações ou outras coisas relacionadas.
 
   - 📚 Sempre fui uma amante em leitura, desde criança eu sempre tive interesse. Com isso, comecei a criar as minhas próprias histórias de forma digital, porém em rascunhos, e posso dizer que amo as criações que eu realizo. Sou apaixonada em ler e escrever.
+
+  <!-- - 📚 XXX. -->
 </details>
 
+<br>
+
+<img align="center" src="https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif" width="100%" height="30%">
 
